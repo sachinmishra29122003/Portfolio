@@ -1,0 +1,329 @@
+{
+  "name": "Ayushi Shrivastava",
+  "role": "Computer Science Engineer & Full-Stack Developer",
+  "email": "ayushiishrii20@gmail.com",
+  "linkedin": "https://linkedin.com/in/ayushishrivastava20",
+  "linkedinHandle": "linkedin.com/in/ayushishrivastava20",
+  "github": "https://github.com/ayushishri04",
+  "githubHandle": "github.com/ayushishri04",
+  "leetcode": "https://leetcode.com/u/ayushishri",
+  "leetcodeHandle": "leetcode.com/u/ayushishri",
+  "summary": "Passionate Computer Science student with experience in building responsive web applications and optimized user interfaces. Skilled in Java and JavaScript with strong debugging and analytical skills. Effective communicator and dependable team member committed to delivering quality solutions. Eager to apply technical expertise to real-world projects and continuously expand knowledge in emerging technologies. Motivated to take on challenging roles that foster innovation, problem-solving, and professional growth.",
+  "education": {
+    "btech": {
+      "id": "btech",
+      "roomNumber": "Suite 101",
+      "title": "B.Tech in Computer Science",
+      "institution": "Galgotias University",
+      "location": "Greater Noida, UP",
+      "period": "2022 – 2026",
+      "score": "CGPA: 8.65 / 10",
+      "badge": "Verified Resume Data",
+      "editable": false,
+      "colorHex": 16722565,
+      "highlights": [
+        "Core focus on Data Structures & Algorithms, Object-Oriented Programming (OOP), and Database Management Systems (DBMS).",
+        "Coursework in Compiler Design and Software Engineering.",
+        "Active participant in hackathons (Smart India Hackathon 2024) and full-stack project development."
+      ]
+    },
+    "class12": {
+      "id": "class12",
+      "roomNumber": "Suite 102",
+      "title": "Class XII (Senior Secondary)",
+      "institution": "Senior Secondary School (Click Edit to Customize)",
+      "location": "Board: CBSE / ICSE / State Board",
+      "period": "Year of Completion (e.g., 2022)",
+      "score": "Percentage / Grade (Editable Placeholder)",
+      "badge": "Editable Placeholder",
+      "editable": true,
+      "colorHex": 61695,
+      "highlights": [
+        "Resume currently provides B.Tech details only — this suite is kept as an honest, editable placeholder.",
+        "Click 'Customize Suite Data' below to fill in your exact Class XII school, board, year, and percentage."
+      ]
+    },
+    "class10": {
+      "id": "class10",
+      "roomNumber": "Suite 103",
+      "title": "Class X (Secondary School)",
+      "institution": "High School Name (Click Edit to Customize)",
+      "location": "Board: CBSE / ICSE / State Board",
+      "period": "Year of Completion (e.g., 2020)",
+      "score": "Percentage / CGPA (Editable Placeholder)",
+      "badge": "Editable Placeholder",
+      "editable": true,
+      "colorHex": 10309341,
+      "highlights": [
+        "Resume currently provides B.Tech details only — this suite is kept as an honest, editable placeholder.",
+        "Click 'Customize Suite Data' below to fill in your exact Class X school, board, year, and score."
+      ]
+    }
+  },
+  "skills": [
+    {
+      "id": "programming",
+      "zone": "Station A",
+      "name": "Programming Languages",
+      "items": [
+        "Java"
+      ],
+      "proficiency": 92,
+      "color": "from-pink-500 to-rose-600",
+      "colorHex": 16722565,
+      "icon": "Terminal",
+      "description": "Strong foundation in Core Java, Object-Oriented Programming, Collections Framework, exception handling, and analytical debugging."
+    },
+    {
+      "id": "frontend",
+      "zone": "Station B",
+      "name": "Frontend Technologies",
+      "items": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "proficiency": 90,
+      "color": "from-cyan-400 to-blue-600",
+      "colorHex": 61695,
+      "icon": "Layout",
+      "description": "Building responsive web applications, interactive UI elements, Thymeleaf templates, and optimized cross-browser user experiences."
+    },
+    {
+      "id": "frameworks",
+      "zone": "Station C",
+      "name": "Frameworks & SDKs",
+      "items": [
+        "Spring Boot",
+        "Android SDK"
+      ],
+      "proficiency": 85,
+      "color": "from-fuchsia-500 to-purple-600",
+      "colorHex": 10309341,
+      "icon": "Server",
+      "description": "Developing scalable RESTful APIs, MVC architectures, and modular backend services with Spring Boot alongside mobile app foundations with Android SDK."
+    },
+    {
+      "id": "database",
+      "zone": "Station D",
+      "name": "Databases",
+      "items": [
+        "MySQL",
+        "SQL"
+      ],
+      "proficiency": 88,
+      "color": "from-cyan-400 to-teal-500",
+      "colorHex": 61695,
+      "icon": "Database",
+      "description": "Designing normalized relational schemas, writing optimized SQL queries, and managing persistent storage for full-stack applications."
+    },
+    {
+      "id": "tools",
+      "zone": "Station E",
+      "name": "Developer Tools",
+      "items": [
+        "GitHub",
+        "Git",
+        "Eclipse"
+      ],
+      "proficiency": 88,
+      "color": "from-pink-500 to-purple-600",
+      "colorHex": 16722565,
+      "icon": "Wrench",
+      "description": "Proficient in version control workflows, collaborative repositories, code reviews, and IDE debugging using Git, GitHub, and Eclipse."
+    },
+    {
+      "id": "coursework",
+      "zone": "Station F",
+      "name": "Core CS Coursework",
+      "items": [
+        "Data Structures & Algorithms",
+        "OOP",
+        "DBMS"
+      ],
+      "proficiency": 91,
+      "color": "from-amber-400 to-pink-500",
+      "colorHex": 16722565,
+      "icon": "BookOpen",
+      "description": "Deep academic and practical command over algorithmic complexity, object-oriented design patterns, and database management internals."
+    },
+    {
+      "id": "softskills",
+      "zone": "Station G",
+      "name": "Soft Skills Lounge",
+      "items": [
+        "Communication",
+        "Collaboration",
+        "Problem-Solving"
+      ],
+      "proficiency": 95,
+      "color": "from-cyan-400 to-pink-500",
+      "colorHex": 61695,
+      "icon": "Users",
+      "description": "Clear technical communicator, dependable team collaborator, and data-driven problem solver focused on performance optimization.",
+      "subDetails": [
+        {
+          "title": "Communication",
+          "text": "Able to clearly convey technical ideas and produce well-structured documentation of test results."
+        },
+        {
+          "title": "Collaboration",
+          "text": "Skilled at working with diverse teams to ensure efficient and successful project delivery."
+        },
+        {
+          "title": "Problem-Solving",
+          "text": "Strong ability to identify performance issues and apply data-driven approaches to resolve them."
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "medicore",
+      "room": "Gallery 301",
+      "title": "MediCore HMS",
+      "date": "March 2026",
+      "subtitle": "Full-Stack Hospital Management System",
+      "colorHex": 16722565,
+      "stack": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "Thymeleaf",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "RESTful APIs"
+      ],
+      "bullets": [
+        "Built a full-stack hospital management system to streamline patient records, appointments, and billing using Java, Spring Boot, and MySQL.",
+        "Designed responsive user interfaces with Thymeleaf, HTML, CSS, and JavaScript for efficient data handling and seamless navigation.",
+        "Implemented RESTful APIs for patient, doctor, and appointment modules, improving system performance and scalability.",
+        "Applied modular architecture and clean coding practices to ensure maintainability and team collaboration."
+      ],
+      "githubUrl": "https://github.com/ayushishri04",
+      "demoType": "hospital"
+    },
+    {
+      "id": "swiftstore",
+      "room": "Gallery 302",
+      "title": "SwiftStore",
+      "date": "April 2025",
+      "subtitle": "Express Medicine Delivery E-Commerce Web App",
+      "colorHex": 61695,
+      "stack": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Responsive UI",
+        "Modular Design"
+      ],
+      "bullets": [
+        "Built a responsive e-commerce web app for medicine delivery using HTML, CSS, and JavaScript.",
+        "Designed an intuitive shopping flow with product listings, cart, and checkout features.",
+        "Enhanced user interface efficiency, resulting in faster navigation and smoother user experience.",
+        "Integrated clean code structure and modular design to ensure maintainability and scalability."
+      ],
+      "githubUrl": "https://github.com/ayushishri04",
+      "demoType": "pharmacy"
+    },
+    {
+      "id": "voyagevista",
+      "room": "Gallery 303",
+      "title": "VoyageVista",
+      "date": "March 2024",
+      "subtitle": "Interactive World Travel & Destination Platform",
+      "colorHex": 10309341,
+      "stack": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Smooth Scroll",
+        "Cross-Browser Optimization"
+      ],
+      "bullets": [
+        "Crafted a responsive travelling website using HTML, CSS, and JavaScript.",
+        "Implemented smooth scrolling and interactive UI elements to enhance user experience.",
+        "Optimized for performance and cross-browser compatibility."
+      ],
+      "githubUrl": "https://github.com/ayushishri04",
+      "demoType": "travel"
+    }
+  ],
+  "achievements": [
+    {
+      "id": "leetcode",
+      "title": "300+ LeetCode Problems Solved",
+      "subtitle": "Data Structures, Algorithms & Problem Solving",
+      "badge": "LeetCode 300+",
+      "link": "https://leetcode.com/u/ayushishri",
+      "colorHex": 16722565
+    },
+    {
+      "id": "hackerrank",
+      "title": "50+ HackerRank Problems Solved",
+      "subtitle": "Java & Algorithmic Challenges",
+      "badge": "HackerRank 50+",
+      "link": "https://github.com/ayushishri04",
+      "colorHex": 61695
+    },
+    {
+      "id": "sih2024",
+      "title": "Smart India Hackathon 2024",
+      "subtitle": "National Level Hackathon Participant",
+      "badge": "SIH 2024",
+      "link": null,
+      "colorHex": 10309341
+    }
+  ],
+  "certifications": [
+    {
+      "category": "CoreTech",
+      "name": "SQL Certification",
+      "issuer": "Oracle",
+      "color": "bg-pink-500/20 text-pink-200 border-pink-400/50"
+    },
+    {
+      "category": "CoreTech",
+      "name": "Java Fundamentals",
+      "issuer": "IBM",
+      "color": "bg-cyan-500/20 text-cyan-200 border-cyan-400/50"
+    },
+    {
+      "category": "CoreTech",
+      "name": "Packet Tracer Networking",
+      "issuer": "Cisco",
+      "color": "bg-purple-500/20 text-purple-200 border-purple-400/50"
+    },
+    {
+      "category": "CoreTech",
+      "name": "Cybersecurity Fundamentals",
+      "issuer": "Fortinet",
+      "color": "bg-pink-500/20 text-pink-200 border-pink-400/50"
+    },
+    {
+      "category": "AI",
+      "name": "Artificial Intelligence Fundamentals",
+      "issuer": "IBM",
+      "color": "bg-cyan-500/20 text-cyan-200 border-cyan-400/50"
+    },
+    {
+      "category": "NPTEL",
+      "name": "Compiler Design",
+      "issuer": "NPTEL",
+      "color": "bg-purple-500/20 text-purple-200 border-purple-400/50"
+    },
+    {
+      "category": "NPTEL",
+      "name": "Software Engineering",
+      "issuer": "NPTEL",
+      "color": "bg-pink-500/20 text-pink-200 border-pink-400/50"
+    },
+    {
+      "category": "Volunteering",
+      "name": "World Environment Summit",
+      "issuer": "Volunteer",
+      "color": "bg-cyan-500/20 text-cyan-200 border-cyan-400/50"
+    }
+  ]
+}
